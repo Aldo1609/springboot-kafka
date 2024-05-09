@@ -2,7 +2,7 @@
 # APIRestCrud
 
 
-This is a Springboot proyect with Kafka to send message to a topic , this proyect have a microservice architecture and 2 services: Provider, Consumer
+This is a Springboot proyect with Kafka to send message to a topic , this proyect has a microservice architecture and 2 services: Provider, Consumer
 
 Video tutorial: Prox
 
